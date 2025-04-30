@@ -2,9 +2,9 @@ import React from "react";
 
 function Projects() {
   const projects = [
-    { title: "Project One", description: "React App using API", link: "#" },
-    { title: "Project Two", description: "Landing Page Design", link: "#" },
-    { title: "Project Three", description: "E-commerce Store", link: "#" },
+    { title: "Project One", description: "Photography", link: "https://drive.google.com/drive/folders/1nYpt-xmOLxyTbmV7BC0fF8Ru-Pvl96rB?usp=drive_linkg" },
+    { title: "Project Two", description: "Animation", link: "#" },
+    { title: "Project Three", description: "Programming", link: "#" },
   ];
 
   return (
